@@ -7,9 +7,9 @@
                 specialty: [
                             {
                               specialty_id: 101,
-                              name: "Менеджер",
+                              name: "Менеджер"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Петр",
@@ -19,9 +19,9 @@
                 specialty: [
                             {
                               specialty_id: 101,
-                              name: "Менеджер",
+                              name: "Менеджер"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Вася",
@@ -31,13 +31,13 @@
                 specialty: [
                             {
                               specialty_id: 101,
-                              name: "Менеджер",
+                              name: "Менеджер"
                             },
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
-                             },
-                           ],
+                              name: "Разработчик"
+                             }
+                           ]
               },
               {
                 f_name: "ЕКАТЕРИНА",
@@ -47,9 +47,9 @@
                 specialty: [
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
+                              name: "Разработчик"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Николай",
@@ -59,9 +59,9 @@
                 specialty: [
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
+                              name: "Разработчик"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Виктор",
@@ -71,9 +71,9 @@
                 specialty: [
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
+                              name: "Разработчик"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Артур",
@@ -83,9 +83,9 @@
                 specialty: [
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
+                              name: "Разработчик"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Артур",
@@ -95,9 +95,9 @@
                 specialty: [
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
+                              name: "Разработчик"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Руслан",
@@ -107,9 +107,9 @@
                 specialty: [
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
+                              name: "Разработчик"
                             }
-                           ],
+                           ]
               },
               {
                 f_name: "Владимир",
@@ -119,8 +119,8 @@
                 specialty: [
                             {
                               specialty_id: 102,
-                              name: "Разработчик",
+                              name: "Разработчик"
                             }
-                           ],
-              },
+                           ]
+              }
             ]
